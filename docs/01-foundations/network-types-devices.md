@@ -8,98 +8,116 @@
 ## Materiał kanoniczny
 
 Communication is an essential characteristic of any society.
+
 In today’s world, people communicate with other people around the world almost as
 simply as they talk to a person standing right beside them.
+
 Over the past several decades, global communication has advanced significantly and
 has greatly improved the human social experience.
+
 A network is basically two or more computers that communicate with each other and
 share information.
+
 Communication over a network (networking) brings people together for either generic
 or specific purposes.
-Network Types
-LAN - A Local Area Network defines a small geographical area in which multiple
+
+___Network Types___
+
+__LAN__ - A Local Area Network defines a small geographical area in which multiple
 computers and other devices are connected. LANs can be set up in homes and small
 businesses and can be managed individually or centrally.
 LANs can be designed to use one of two communication methods: Wired or Wireless.
-WAN - A Wide Area Network is spread across an unlimited geographical area and
+
+__WAN__ - A Wide Area Network is spread across an unlimited geographical area and
 connects between multiple LANs. WANs are usually managed by several service
 providers.
-MAN - A Metropolitan Area Network is larger than a LAN but smaller than a WAN. In
+
+__MAN__ - A Metropolitan Area Network is larger than a LAN but smaller than a WAN. In
 most cases, it is managed by a city municipality and enables connection to broader
 networks.
-SAN - A Storage Area Network is a dedicated network that supports file servers and
+
+__SAN__ - A Storage Area Network is a dedicated network that supports file servers and
 provides efficient transfer of unusually large data sizes at extremely high rates.
 SAN networks are usually found in large companies and data centers
 
-Network Structure
+___Network Structure___
+
 The history of computer networks began in the 1960s with a network called ARPANET.
+
 Communication among devices can be as simple as connecting a cable between two
 computers. On the other hand, it can be as complex as a large assembly of multiple
 networks spread around the world and regulated by an assortment of sophisticated
 devices and protocols.
-Devices in a Network
-Endpoint Devices - Devices that connect to a network for communication purposes,
+
+___Devices in a Network___
+
+__Endpoint Devices__ - Devices that connect to a network for communication purposes,
 such as computers, phones, and others. All endpoint devices have unique addresses
 that identify them on the network.
-Media - ‘Media’, based on the word ‘medium’ (meaning ‘in between’) is a means of
+
+__Media__ - ‘Media’, based on the word ‘medium’ (meaning ‘in between’) is a means of
 transferring data, such as metallic wire, glass or plastic fiber, wireless radio frequencies,
 and others.
-Intermediary Devices - Devices that transfer messages over the network and facilitate
+
+__Intermediary Devices__ - Devices that transfer messages over the network and facilitate
 communication between end devices.
-Endpoint Devices
+
+___Endpoint Devices___
+
 In today’s world, most people communicate with each other through networks.
+
 Endpoint devices are the source or destination devices in a networked system.
+
 Computers, laptops, and phones are endpoint devices that allow us to communicate
 over a network.
+
 Endpoint devices must have the ability to connect to a network via a NIC (Network
 Interface Controller), to be able to send and receive information.
 
-Network Interface Controller (NIC)
+___Network Interface Controller (NIC)___
+
 To allow an endpoint device to send and receive information over a network it must
 have the appropriate hardware.
+
 A Network Interface Controller (NIC) allows endpoint devices to interact with other
 devices over a network.
+
 Other names for NIC include:
-
 * Network Adapter
-
 * LAN Adapter
-
 * Physical Network Interface
-Network Devices
+
+___Network Devices___
+
 Network devices act as bridges, interconnecting endpoint devices.
+
 Smart network devices know how to differentiate between devices, and can send data
 to specific destinations.
+
 Unlike smart devices, simple network devices send information indiscriminately across a
 network.
-Switches
+
+___Switches___
+
 For multiple endpoint devices to communicate with each other, a mechanism needs to
 be set up to handle the transfers.
+
 A switch is a network device with physical ports to which endpoint devices can be
 connected via Ethernet cables to create a network.
+
 Switches use MAC addresses to pass information from one device to another.
 
 Switch Types
-Hub - Hubs were used to relay data to multiple devices in a LAN. They broadcast data to
-all connected devices, as opposed to a switch which sends information to dedicated
-destinations.
-Layer 2 Switch - This is the most common and basic switch in use. It uses MAC
+__Hub__ - Hubs were used to relay data to multiple devices in a LAN. They broadcast data to
+all connected devices, as opposed to a switch which sends information to dedicated destinations.
+
+__Layer 2 Switch__ - This is the most common and basic switch in use. It uses MAC
 addresses to forward information to specific destinations within the network.
-Layer 3 Switch - A layer 3 switch performs the same operations as a layer 2 switch, but
+
+__Layer 3 Switch__ - A layer 3 switch performs the same operations as a layer 2 switch, but
 can also function as a router if it is configured to do so.
 Switch Vs. Hub
-=
-Message
-tok es. —_\
-—+
-Switch
-LJ)
-—a_\
-Message
-toA
-—+ [z0000] —
-Lo
-Hub —S_\
+
 Broadcast & Collision Domains
 A Broadcast domain is a type of communication whereby the sender sends a single
 copy of the data to all devices on the same network segment. Broadcast

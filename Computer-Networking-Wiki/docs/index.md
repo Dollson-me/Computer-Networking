@@ -1,7 +1,5 @@
 # Computer Networking Knowledge Wiki
 
-To jest właściwa baza wiedzy: **tematyczna, linkowana i deduplikowana**. Nie czytasz jej od strony 1 do strony 1044 — wchodzisz w temat i przechodzisz między powiązanymi pojęciami, komendami, labami i projektem.
-
 ## Jak korzystać
 
 1. Zacznij od kategorii niżej albo [Learning Path](learning-path.md).

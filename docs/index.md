@@ -8,7 +8,6 @@ To jest właściwa baza wiedzy: **tematyczna, linkowana i deduplikowana**. Nie c
 2. Na końcu każdej strony masz powiązane tematy i laboratoria.
 3. Do szybkiego szukania poleceń użyj [Command Reference](reference/commands.md).
 4. Do portów/protokołów użyj [Protocols & Ports](reference/protocols-ports.md).
-5. Jeśli chcesz sprawdzić treść względem PDF-u, zobacz [Source Map](reference/source-map.md) i `_source-archive/`.
 
 ## Wiedza
 
@@ -90,4 +89,4 @@ To jest właściwa baza wiedzy: **tematyczna, linkowana i deduplikowana**. Nie c
 - [Protocols, ports and layers](reference/protocols-ports.md)
 - [Glossary](reference/glossary.md)
 - [Links and resources](reference/resources.md)
-- [Source Map](reference/source-map.md)
+- [Source Map](reference/source-map.md)    
